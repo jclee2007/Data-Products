@@ -30,7 +30,7 @@ knit        : slidify::knit2slides
   
     \[\Large{LTV = \sum_{i=1}^{15}(ln(i) * -3.509 + Net Revenue_1}\]
   
-  + Marketing Sign Ups (where i is years):
+  + Marketing LTV (where i is years):
   
     \[\Large{LTV = \sum_{i=1}^{15}(ln(i) * -1.009 + Net Revenue_1}\]
     
