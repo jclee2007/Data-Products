@@ -28,11 +28,11 @@ knit        : slidify::knit2slides
 * The decay rates are different between members acquired organically versus those from marketing sources
   + Organic LTV (where i is years):
   
-    \[\LARGE{LTV = \sum_{i=1}^{15}(ln(i) * -3.509 + Net Revenue_1}\]
+    \[\Large{LTV = \sum_{i=1}^{15}(ln(i) * -3.509 + Net Revenue_1}\]
   
   + Marketing Sign Ups (where i is years):
   
-    \[\LARGE{LTV = \sum_{i=1}^{15}(ln(i) * -1.009 + Net Revenue_1}\]
+    \[\Large{LTV = \sum_{i=1}^{15}(ln(i) * -1.009 + Net Revenue_1}\]
     
 * These decay rates are built into the forecasting model and drive cash flow projections
 
